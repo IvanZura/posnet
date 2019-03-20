@@ -1,6 +1,6 @@
-# posnet
+# Verifone VX690 POSNET
 
-> Posnet y tasas
+> Para utilizarlo debe tener ejecutando deviceIntegrator
 
 ## Build Setup
 
@@ -18,5 +18,4 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+Hecho con NUXT.JS con ♥
